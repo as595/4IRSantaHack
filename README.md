@@ -43,4 +43,5 @@ Then make sure you have the right Python libraries for the tutorials. They can a
 
 ### The 4IR CDT is a partnership between:
 
-<p align="center"><img width=20% src="https://github.com/darabigdata/IDWBotswana/blob/master/media/Newton-Fund-Master-rgb.jpg", hspace="20"><img width=40% src="https://github.com/darabigdata/IDWBotswana/blob/master/media/stfc_logo.png", hspace="20"><img width=20% src="https://github.com/darabigdata/IDWBotswana/blob/master/media/dst_logo_crop.jpeg"></p>
+<p align="center"><img width=20% src="https://github.com/as595/4IRSantaHack/blob/master/media/lancaster_logo.png", hspace="20"><img width=20% src="https://github.com/as595/4IRSantaHack/blob/master/media/manchester_logo.png", hspace="20"><img width=20% src="https://github.com/as595/4IRSantaHack/blob/master/media/sheffield_logo.jpg"></p>
+<p align="center"><img width=20% src="https://github.com/as595/4IRSantaHack/blob/master/media/stfc_logo.png", hspace="20"></p>
