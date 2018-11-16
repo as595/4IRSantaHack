@@ -9,20 +9,18 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![License](https://img.shields.io/cran/l/devtools.svg)](https://opensource.org/licenses/gpl-license)
 
-# 2018 4IR Santa Hack
+<p align="center"><img width=45% src="https://github.com/as595/4IRSantaHack/blob/master/media/hack_title.png"></p>
 
 ## Introduction
- Welcome to the [DARA Big Data](https://www.darabigdata.com) project [International Data Week 2018](http://internationaldataweek.org) hackathon at the University of Botswana! <img src="https://github.com/darabigdata/IDWBotswana/blob/master/media/Animated-Flag-Botswana.gif" width=5%>
+ Welcome to the 4IR CDT Santa Hack 2018! 
 
-The DARA Big Data hackathon is designed to help you improve your data science skills in a friendly and supportive environment. At the hackathon, you will be grouped into **teams of four** and each team will choose one of the DARA Big Data hack challenges to work on. At the end of the hack each team will give a 5 minute (3 slide) presentation on the results of their challenge. These presentations will be judged by the organisers and there will be a prize for the winning team. The presentations will be judged on (1) the accuracy of the predicted results via machine learning and (2) visualisation/presentation of the data and results.
-
-The DARA Big Data hack challenges will be run in Python3 using the [IDIA Cloud](idia.ac.za/research-and-projects/african-research-cloud). Students should have a basic working knowledge of Python (including the scipy and numpy libraries) - but you do not have to be an expert to take part and enjoy yourself!
+The CDT Christmas hackathon is designed to help you improve your data science skills in a friendly and supportive environment. At the hackathon, you can either work on your own or in a team of up to three people. The hack challenge is to classify the test images as *Santa* or *Not Santa* and the team with the highest accuracy at the end of the hack wins. Simple.
 
 -----
 
 ## The Challenge...
 
-Machine Learning can be used to provide awesome applications and services. Examples are recommender systems on Netflix, Amazon and even Google reverse Image search. However, creating an application isn't limited to big tech firms. In this challenge you will build a web application of your choice and we've put together [a tutorial](https://github.com/darabigdata/IDWBotswana/tree/master/CHALLENGE-1) to help you get started, which shows you how to build a movie recommender based on a simple machine learning approach.
+There is no single way to win the Santa Hack - you can use whichever machine learning approach you want: SVM, Random Forests, CNNs... and you can extract whatever features you like along the way. The only thing you do have to do is produce a piece of code that classifies the approved Santa Hack test image dataset and (honestly!) reports its accuracy. To help you get started we've provided some classification tutorials.
 
 -----
 
