@@ -153,7 +153,7 @@ This nice [slide by Nikos Nikolaou](https://github.com/as595/4IR-ClassificationW
 Or you can read about it online, for example [here](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c) and [here](https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall).
 
 
-<p align="center"><img width=20% src="https://github.com/as595/4IRSantaHack/blob/master/media/animated-santa-claus-image-0034.gif"></p>
+<p align="center"><img width=15% src="https://github.com/as595/4IRSantaHack/blob/master/media/animated-santa-claus-image-0034.gif"></p>
 
 -----
 
