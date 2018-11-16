@@ -43,3 +43,7 @@ Then make sure you have the right Python libraries for the tutorials. They can a
 
 <p align="center"><img width=30% src="https://github.com/as595/4IRSantaHack/blob/master/media/lancaster_logo.png", hspace="20"><img width=30% src="https://github.com/as595/4IRSantaHack/blob/master/media/manchester_logo.png", hspace="20"><img width=30% src="https://github.com/as595/4IRSantaHack/blob/master/media/sheffield_logo.jpg"></p>
 <p align="center"><img width=40% src="https://github.com/as595/4IRSantaHack/blob/master/media/stfc_logo.png", hspace="20"></p>
+
+-----
+
+<a href="http://www.animatedimages.org/" target="_blank">AnimatedImages.org</a>
