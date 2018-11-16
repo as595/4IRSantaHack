@@ -20,7 +20,7 @@ The CDT Christmas hackathon is designed to help you improve your data science sk
 
 ## The Challenge...
 
-There is no single way to win the Santa Hack - you can use whichever machine learning approach you want: SVM, Random Forests, CNNs... and you can extract whatever features you like along the way. The only thing you do have to do is produce a piece of code that classifies the approved Santa Hack test image dataset and (honestly!) reports its accuracy. To help you get started we've provided some classification tutorials.
+There is no single way to win the Santa Hack - you can use whichever machine learning approach you want: SVM, Random Forests, CNNs... and you can extract whatever features you like along the way. The only thing you do have to do is produce a piece of code that classifies the approved Santa Hack test image dataset and (honestly!) reports its accuracy. To help you get started we've provided some classification tutorials as well as a quick tutorial on how to scrape images from google image search in case you want to expand your training data set.
 
 -----
 
