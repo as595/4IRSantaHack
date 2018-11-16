@@ -1,5 +1,5 @@
 
-<p align="center"><img width=25% src="https://github.com/as595/4IRSantaHack/blob/master/media/animated-santa-claus-image-0420.gif"></p>
+<p align="center"><img width=45% src="https://github.com/as595/4IRSantaHack/blob/master/media/animated-santa-claus-image-0420.gif"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
