@@ -1,6 +1,6 @@
 
 
-# Google Image Web-scraping Tutorial <p><img width=5% src="https://github.com/as595/4IRSantaHack/blob/master/media/santa-hat.jpg"></p>
+# Google Image Web-scraping Tutorial
 
 ### What's in the repo?
 
