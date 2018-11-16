@@ -46,4 +46,4 @@ Then make sure you have the right Python libraries for the tutorials. They can a
 
 -----
 
-<a href="http://www.animatedimages.org/" target="_blank">AnimatedImages.org</a>
+GIF credit: <a href="http://www.animatedimages.org/" target="_blank">AnimatedImages.org</a>
