@@ -1,4 +1,4 @@
-<p align="center"><img width=30% src="https://github.com/as595/4IRSantaHack/blob/master/media/santa-hat.jpg"></p>
+<p align="center"><img width=20% src="https://github.com/as595/4IRSantaHack/blob/master/media/santa-hat.jpg"></p>
 
 
 # Google Image Web-scraping Tutorial
