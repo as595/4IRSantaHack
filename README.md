@@ -9,8 +9,7 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![License](https://img.shields.io/cran/l/devtools.svg)](https://opensource.org/licenses/gpl-license)
 
-<p align="center"><img width=40% src="https://github.com/darabigdata/IDWBotswana/blob/master/media/tshirt-back-idw.png"></p>
-
+<p align="center">2018 4IR Santa Hack</p>
 
 ## Introduction
  Welcome to the [DARA Big Data](https://www.darabigdata.com) project [International Data Week 2018](http://internationaldataweek.org) hackathon at the University of Botswana! <img src="https://github.com/darabigdata/IDWBotswana/blob/master/media/Animated-Flag-Botswana.gif" width=5%>
