@@ -55,12 +55,12 @@ The last step will download a text file named: 'zebra_urls.txt'.
 
 ### Step 2: Download all the images with Python
 
-This repo includes a [script](https://github.com/darabigdata/IDWBotswana/blob/master/CHALLENGE-2/download_images.py) to download all the images listed in the url file. You can also always write your own!
+This repo includes a [script](https://github.com/as595/4IRSantaHack/blob/master/tutorials/web_scraping/download_images.py) to download all the images listed in the url file. You can also always write your own!
 
 The script provided here takes two arguments: (1) the url list file, and (2) the location of the directory where you want the images to be stored. You can run it like this:
 
 ```bash
-> python download_images.py -u zebra_urls.txt -o ./ZEBRA/
+> python download_images.py -u santa_urls.txt -o ./ZEBRA/
 ```
 
 Inside the script, the first step is to grab a list of the urls from the input file:
@@ -119,7 +119,7 @@ for image in images:
 		os.remove(image)		
 ```
 
-For classification we're also going to need a set of images that don't contain our target class, i.e. images that are NOT of zebras. A good online database for random images is the [Caltech-256 Dataset](http://www.vision.caltech.edu/Image_Datasets/Caltech256/), it contains about 30,000 images grouped into categories. You can build a "not zebra" dataset by randomly sampling images from there (make sure you avoid images from the zebra category!). Remember to randomly sample approximately the same number of "not zebra" images as "zebra" images, otherwise you'll end up with a [class imbalance problem](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2). 
+For classification we're also going to need a set of images that don't contain our target class, i.e. images that are NOT of santa. A good online database for random images is the [Caltech-256 Dataset](http://www.vision.caltech.edu/Image_Datasets/Caltech256/), it contains about 30,000 images grouped into categories. You can build a "not santa" dataset by randomly sampling images from there (make sure you avoid images from the santa category!). Remember to randomly sample approximately the same number of "not santa" images as "santa" images, otherwise you'll end up with a [class imbalance problem](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2). 
 
 -----
 
