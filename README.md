@@ -25,6 +25,12 @@ There is no single way to win the Santa Hack - you can use whichever machine lea
 
 -----
 
+## The Code...
+
+Please make sure you read the code of conduct for the hackathon (and all 4IR hackathons). As well as reading it, you are also welcome to re-use it. Ours is adapted from one produced by the [RAS](https://ras.ac.uk), but Github also provides a set of [standard templates](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/) for collaborative coding projects that you might find useful.
+
+-----
+
 ### Not at the hackathon, but want to test your code-building skills? Feel free!
 
 ```bash
