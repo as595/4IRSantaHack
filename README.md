@@ -17,6 +17,8 @@ under development! - do not clone yet!
 
 The CDT Christmas hackathon is designed to help you improve your data science skills in a friendly and supportive environment. At the hackathon, you can either work on your own or in a team of up to three people. The hack challenge is to classify the test images as *Santa* or *Not Santa* and the team with the highest accuracy at the end of the hack wins. Simple.
 
+The hack agenda and instructions for what you might need to bring are [here]().
+
 -----
 
 ## The Challenge...
