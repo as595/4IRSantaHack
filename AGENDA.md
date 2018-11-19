@@ -1,6 +1,6 @@
 
 # On the day
-------
+---
 
 ## Schedule
 
@@ -25,4 +25,4 @@
 - yourself
 - your laptop
 
-------
+---
