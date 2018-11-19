@@ -26,7 +26,7 @@ This tutorial is a simpler version of [] and is divided into three parts:
 
 For this challenge you're going to need to build your own library of training data. For image data one of the best places to get this kind of data is Google Images. So in this tutorial we'll use Google Images to web-scrape a database of images. The instructions for this step are a simplified version of the excellent blog post [here](https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/). To follow this tutorial you'll need to use Google Chrome, but there are also many nice ways of scraping data from the web using the Python requests library and the BeautifulSoup library, e.g. [here](https://allofyourbases.com/2017/10/08/web-scraping-youtube-in-python/).
 
-1. Open Chrome and navigate to google image search. Now enter your search, e.g. "Zebra"
+1. Open Chrome and navigate to google image search. Now enter your search, e.g. "Santa"
 2. Open the Developer console: either use CTRL+SHIFT+I or go to 'View' --> 'Developer' --> 'Javascript Console'. 
 3. The next step is to start scrolling! Keep scrolling until you have found all relevant images to your query.
 4. Next is to grab all the urls of the images in your scroll. In the console enter the following commands:
@@ -55,7 +55,7 @@ The last step will download a text file named: 'zebra_urls.txt'.
 
 ### Step 2: Download all the images with Python
 
-This repo includes a [script](https://github.com/as595/4IRSantaHack/blob/master/tutorials/web_scraping/download_images.py) to download all the images listed in the url file. You can also always write your own!
+This repo includes a [script](https://github.com/as595/4IRSantaHack/blob/master/tutorials/webscraping/download_images.py) to download all the images listed in the url file. You can also always write your own!
 
 The script provided here takes two arguments: (1) the url list file, and (2) the location of the directory where you want the images to be stored. You can run it like this:
 
