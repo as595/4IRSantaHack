@@ -184,4 +184,4 @@ cv2.imshow("Output", output)
 cv2.waitKey(0)
 ```
 
-<p align="center"><img width=15% src="https://github.com/as595/4IRSantaHack/blob/master/media/santa_prob.png"></p>
+<p align="center"><img width=40% src="https://github.com/as595/4IRSantaHack/blob/master/media/santa_prob.png"></p>
