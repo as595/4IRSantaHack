@@ -9,14 +9,14 @@ from keras import backend as K
 
 class LeNet:
 	@staticmethod
-	def build(width, height, depth, classes):
+	def build(width, height, chan, classes):
 		# initialize the model
 		model = Sequential()
-		inputShape = (height, width, depth)
+		inputShape = (height, width, chan)
 
 		# if we are using "channels first", update the input shape
 		if K.image_data_format() == "channels_first":
-			inputShape = (depth, height, width)
+			inputShape = (chan, height, width)
 
 		# first set of CONV => RELU => POOL layers
 		model.add(Conv2D(20, (5, 5), padding="same",
