@@ -170,12 +170,18 @@ proba = santa if santa > notSanta else notSanta
 label = "{}: {:.2f}%".format(label, proba * 100)
 ```
 
+We'll write the probability on the image.
+
 ```python
 output = imutils.resize(orig, width=400)
 cv2.putText(output, label, (10, 25),  cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 0), 2)
 ```
 
+And here it is (a window will pop up).
+
 ```python
 cv2.imshow("Output", output)
 cv2.waitKey(0)
 ```
+
+<p align="center"><img width=15% src="https://github.com/as595/4IRSantaHack/blob/master/media/santa_prob.png"></p>
