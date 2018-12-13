@@ -2,7 +2,7 @@
 
 ### What's in the repo?
 
-* **Classify_Santa_Images.ipynb**
+* **SVM_Classifier.ipynb**
     * *A jupyter notebook that implements simple machine learning to identify images of Santa*
 
 
