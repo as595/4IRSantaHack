@@ -4,21 +4,15 @@
 
 ## Schedule
 
-**14:00** Introduction to the Hack
+**13:45** Introduction to the Hack
 
-**14:30** Start hacking!
+**14:20** Start hacking!
 
-**16:00** Tea
+**16:00** Social Event
 
 **16:30** More hacking!
 
-**18:30** Dinner
-
-**19:00** More hacking!
-
-**20:30** Hack ends... judges check accuracies...
-
-**21:00** Prize presentation
+**19:00** Hack ends... judges check accuracies...
 
 ## What you need to bring:
 
