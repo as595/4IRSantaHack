@@ -15,7 +15,7 @@ under development! - do not clone yet!
 ## Introduction
  Welcome to the 4IR CDT Santa Hack 2018! 
 
-The CDT Christmas hackathon is designed to help you improve your data science skills in a friendly and supportive environment. At the hackathon, you can either work on your own or in a team of up to three people. The hack challenge is to classify the test images as *Santa* or *Not Santa* and the team with the highest accuracy at the end of the hack wins. Simple.
+The CDT Christmas hackathon is designed to help you improve your data science skills in a friendly and supportive environment. At the hackathon, you can either work on your own or in a team of up to three people. The hack challenge is to classify the test images as *Santa* or *Not Santa* and the team with the highest accuracy at the end of the hack wins. Simples.
 
 The hack agenda and instructions for what you might need to bring are [here](https://github.com/as595/4IRSantaHack/blob/master/AGENDA.md).
 
@@ -23,7 +23,7 @@ The hack agenda and instructions for what you might need to bring are [here](htt
 
 ## The Challenge...
 
-There is no single way to win the Santa Hack - you can use whichever machine learning approach you want: SVM, Random Forests, CNNs... and you can extract whatever features you like along the way. The only thing you do have to do is produce a piece of code that classifies the approved Santa Hack test image dataset and (honestly!) reports its accuracy. To help you get started we've provided some [classification tutorials](https://github.com/as595/4IRSantaHack/tree/master/tutorials) as well as [a quick tutorial on how to scrape images from google image search](https://github.com/as595/4IRSantaHack/tree/master/tutorials/webscraping) in case you want to expand your training data set. Deep learning is allowed, but do remember that the hack is time limited!
+There is no single way to win the Santa Hack - you can use whichever machine learning approach you want: SVM, Random Forests, CNNs... and you can extract whatever features you like along the way. The only thing you do have to do is produce a piece of code that classifies the approved Santa Hack test image dataset and (honestly!) reports its accuracy. To help you get started we've provided some [classification tutorials](https://github.com/as595/4IRSantaHack/tree/master/tutorials) as well as [a quick tutorial on how to scrape images from google image search](https://github.com/as595/4IRSantaHack/tree/master/tutorials/webscraping) to help you build your training data set. Deep learning is allowed, but do remember that the hack is time limited!
 
 The Santa Hack was inspired by [this blog](https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/).
 
